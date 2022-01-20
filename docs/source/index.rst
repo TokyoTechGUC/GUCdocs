@@ -3,8 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Global Urban Climatology Tools and Databases's documentation!
+Global Urban Climatology Tools and Databases Documentation
 ========================================================================
+Project Leader: Alvin C.G. Varquez
+Institute: Tokyo Institute of Technology
+Team members: Do Ngoc Khanh (D), Dewa Gede Junnaedhi (D), Hiroki Ryoga (M)
+
+Under Construction
 
 .. toctree::
    :maxdepth: 2
